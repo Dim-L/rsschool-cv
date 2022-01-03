@@ -6,4 +6,4 @@
 # №2 -- https://Dim-L.github.io/rsschool-cv/
 
 # №3
-[CV#3. CV. Cross-Check](https://github.com/Dim-L/rsschool-cv/blob/rsschool-cv-html/CV.%20Cross-Check/index.html)
+[CV#3. CV. Cross-Check](https://Dim-L.github.io/rsschool-cv/CVCrossCheck/)
