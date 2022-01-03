@@ -6,4 +6,4 @@
 # №2 -- https://Dim-L.github.io/rsschool-cv/ -- не доступно уже
 
 # №3
-[CV#3. CV. Cross-Check](https://Dim-L.github.io/rsschool-cv/)
+[CV#3. CV. Cross-Check](https://Dim-L.github.io/rsschool-cv/CVCrossCheck/index.html)
